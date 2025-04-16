@@ -11,6 +11,7 @@ public class Calculator {
         System.out.println("now we merge ");
         System.out.println("rebase_commit1 ");
         System.out.println("rebase_commit2 ");
+        System.out.println("rebase_commit3 ");
 
     }
 }
